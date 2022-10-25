@@ -1,4 +1,4 @@
-# ML_Music-Genre-Classifiction
+# Music Genre Classifiction
 
 In this music genre classification project, a classifier on audio files to predict its genre is developed.
 
