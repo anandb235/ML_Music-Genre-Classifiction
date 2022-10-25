@@ -1,4 +1,4 @@
-# Music Genre Classifiction
+# Music Genre Classifiction using KNN Classifier
 
 In this music genre classification project, a classifier on audio files to predict its genre is developed.
 
